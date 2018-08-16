@@ -1,0 +1,14 @@
+{
+  "name": "patch-chess",
+  "version": "1.0.0",
+  "description": "wrapper for ssb-chess to work in patchless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frankiebee",
+  "license": "ISC",
+  "dependencies": {
+    "ssb-chess": "^2.3.3"
+  }
+}

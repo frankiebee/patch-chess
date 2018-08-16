@@ -1,0 +1,14 @@
+npm-debug.log
+node_modules
+# IDEs
+.idea
+.vscode
+.sublime-project
+
+# VIM
+*.swp
+*.swo
+
+temp
+.tmp
+.DS_Store
