@@ -9,6 +9,6 @@
   "author": "frankiebee",
   "license": "ISC",
   "dependencies": {
-    "ssb-chess": "^2.3.3"
+    "ssb-chess": "^2.3.7"
   }
 }
