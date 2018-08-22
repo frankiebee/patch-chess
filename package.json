@@ -1,5 +1,5 @@
 {
-  "name": "patch-chess",
+  "name": "patchapp-chess",
   "version": "1.0.0",
   "description": "wrapper for ssb-chess to work in patchless",
   "main": "index.js",
